@@ -1,11 +1,13 @@
-﻿// HelloWorld.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
-#include <iostream>
+﻿
+#include <stdio.h>
+#include <stdlib.h>
 
 int main()
 {
-    std::cout << "Hello World!\n";
+// @sato
+// ビルドエラーが出たので、コメントアウト
+// printfでの出力に修正をお願いします
+//    std::cout << "Hello World!\n";
     return 0;
 }
 
