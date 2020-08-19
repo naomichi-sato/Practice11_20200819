@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+*.filters
+*.user
+HelloWorld/.vs/
+HelloWorld/Debug/
