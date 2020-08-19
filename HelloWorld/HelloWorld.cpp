@@ -4,10 +4,11 @@
 
 int main()
 {
-// @sato
-// ビルドエラーが出たので、コメントアウト
-// printfでの出力に修正をお願いします
-//    std::cout << "Hello World!\n";
+    printf("Hello World\n");
+
+    // @sato
+    // systemをつかって一度プログラムを停止するいつもの１行の追加と
+    // 下のコメントを削除してください。
     return 0;
 }
 
